@@ -20,8 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">PARQUE ECOLÓGICO CANTARRANA - 05 de marzo de 2017</div>
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">“CAMINATA ESPECIAL PARA SU MASCOTA”</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">SENDERO LAS 3 JOROBADAS-LAGUNA DEL VERJÓN - Domingo 12 de marzo de 2017</div>
 
                     </div>
 <br>
@@ -33,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/canta.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/laguna.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/canta1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/laguna1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/canta2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/laguna2.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -76,22 +75,24 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El parque ecológico Cantarrana se encuentra en la localidad No. 5 de Usme. Su ingreso está ubicado sobre la Avenida Usme # 96 a 97 sur. 
-                        Es un punto estratégico para el sistema hídrico de Bogotá; cuenta con amplias zonas verdes, espacios de recreación, senderos ecológicos, caminos de piedra, miradores, entre otros espacios.</font></p>
+                        <p><font size="3">El sendero se encuentra ubicado en la localidad de santa fe, detrás del cerro de Guadalupe y Monserrate entre el páramo de cruz verde y el páramo del verjón, es un ecosistema de sub-páramo y páramo en el que se puede observar vegetación propia de estos ecosistemas y la legendaria laguna del verjón.</font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido da inicio en el ingreso principal, donde un intérprete del parque nos dará la bienvenida, se socializaran las recomendaciones y se hará un calentamiento previo.</font></p>
+                        <p><font size="3">El recorrido se da inicio en el km 11 vía Choachí  (Cundinamarca) se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad. Desde allí se realiza el desplazamiento por el cerro de las 3 jorobadas, hasta encontrar el camino real que conduce a la laguna del verjón y finalmente se realiza el traslado hasta el parador 86 donde se dará por terminada la caminata.</font></p>
 
-                        <center><h3>“APTA PARA TODA LA FAMILIA” </h3></center>
-                        <center><h3>En esta ocasión los participantes podrán asistir con su mascota canina</h3></center>
-                        <h3>INDISPENSABLE LLEVAR</h3>
+                        <h2>Recuerde</h2>
+
+                        <p><font size="3">El punto de encuentro para la caminata es en la estación de Bicentenario de Transmilenio en la parada de la ruta especial del verjón 14-6, de allí se hace el desplazamiento hasta el km 11 donde dará inicio el recorrido.
+                        Es importante tener en cuenta que para la actividad debe contar con la tarjeta de transmilenio cargada o contar con dinero adicional para el transporte desde el  parador 86 hasta la estación de Bicentenario.</font></p>
+
+                        <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Collar</li>
-                            <li>Carné de vacunación</li>
-                            <li>Bolsa para desechos</li>
-                            <li>Favor acogerse a la reglamentación vigente para la tenencia de razas peligrosas.</li>
+                            <li>Miradores</li>
+                            <li>Ecosistema de páramo</li>
+                            <li>Camino real </li>
+                            <li>Laguna del verjón</li>
                             </font>
                         </ul>
                         <br>
@@ -112,7 +113,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Estación de Policía de USME. Av Usme No. 96A-97</p>
+                                            <p>Estación de Bicentenario - parada ruta especial del verjón 14-6</p>
 
                                         </td>
 
@@ -128,7 +129,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 05 de Marzo de 2017</p>
+                                            <p>Domingo 12 de Marzo de 2017</p>
 
                                         </td>
 
@@ -144,7 +145,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>8:00 a.m</p>
+                                            <p>6:45 a.m</p>
 
                                         </td>
 
@@ -160,7 +161,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>30 Personsa</p>
+                                            <p>50 Personsa</p>
 
                                         </td>
 
@@ -194,7 +195,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>2.600 m.s.n.m</td>
+                                            <p>3.584 m.s.n.m</td>
 
                                     </tr>
 
@@ -208,7 +209,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>14°</p>
+                                            <p>12°</p>
 
                                         </td>
 
@@ -217,20 +218,13 @@
 
                                         <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Acceso</p>
+                                            <p>Dirección</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>SITP:
-                                                <li>802 Sabana del Dorado – Usme</li>
-                                                <li>910 La Rivera – Usme</li>
-                                                <li>914 Bachue – Usme</li>
-
-                                               ALIMENTADOR:
-                                                <li>3-5 Portal Usme -Usminia</li>
-                                                </p>
+                                            <p>Km 11 vía Choachí (Cundinamarca) </p>
                                         </td>
 
                                     </tr>
@@ -244,7 +238,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3 horas</p>
+                                            <p>5 a 6 horas</p>
 
                                         </td>
 
@@ -278,6 +272,8 @@
                                 <li>Abstenerse de participar: mujeres en estado de embarazo, personas que tengan problemas de salud complejos</li>
 
                                 <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins></li>
+
+                                <li><ins>Llevar la tarjeta de transmilenio cargada.</ins></li>
                             </font>
 
                             <br>
